@@ -18,18 +18,25 @@ Veterinary Project RestApi Service
 |        Regex          |
 |         MySql         |
 
-## Demo Account
-| :closed_lock_with_key: E-Mail | :old_key: Password |
+## Available Demo Accounts
+| :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
 | **``mert@mail.com``**| **12345**|
-| **``mert@mail.com``**| **12345**|
-| **``mert@mail.com``**| **12345**|
-| **``mert@mail.com``**| **12345**|
+| **``selen@mail.com``**| **1234**|
+| **``aydin@mail.com``**| **12345**|
+| **``demo@mail.com``**| **12345**|
 
+## Roles of Existing Available Demo Accounts
+| :lock_with_ink_pen: Username | ROLE_ADMIN | ROLE_DOCTOR | ROLE_SECRETARY | ROLE_BEGINNER
+|----------|----------|----------|----------|----------|
+| **``mert@mail.com``**| X | X | X | X 
+| **``selen@mail.com``**| X | X | X | X 
+| **``aydin@mail.com``**| X | X | X | X 
+| **``demo@mail.com``**|  |  |  | X 
 
 ## Application Images
 <p>
-  
+
 <a href="https://github.com/mertdumanlicse/Java-Spring-RestApi-Jpa-Veterinary-Clinic-Project/blob/main/images/1.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Spring-RestApi-Jpa-Veterinary-Clinic-Project/blob/main/images/1.jpg" width="240" style="max-width:100%;"></a>
   
