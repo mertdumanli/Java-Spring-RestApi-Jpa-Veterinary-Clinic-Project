@@ -1,7 +1,7 @@
 # Java Spring RestApi Jpa Veterinary Clinic Project
 Veterinary Project RestApi Service
 
-* It is the project where the services of the [Veterinary Project](https://www.google.com), made with the MVC architectural pattern, are written.
+* It is the project where the services of the [Veterinary Project](https://github.com/mertdumanlicse/Java-Spring-Mvc-Jpa-Veterinary-Clinic-Project), made with the MVC architectural pattern, are written.
 
 ## Used Technologies
 | Languages & Abilities |
@@ -51,6 +51,9 @@ Veterinary Project RestApi Service
 <a href="https://github.com/mertdumanlicse/Java-Spring-RestApi-Jpa-Veterinary-Clinic-Project/blob/main/images/7.jpg" target="_blank">
 <img src="https://github.com/mertdumanlicse/Java-Spring-RestApi-Jpa-Veterinary-Clinic-Project/blob/main/images/7.jpg" width="240" style="max-width:100%;"></a>
 
+<a href="https://github.com/mertdumanlicse/Java-Spring-RestApi-Jpa-Veterinary-Clinic-Project/blob/main/images/8.jpg" target="_blank">
+<img src="https://github.com/mertdumanlicse/Java-Spring-RestApi-Jpa-Veterinary-Clinic-Project/blob/main/images/8.jpg" width="240" style="max-width:100%;"></a>
+  
 </p>
 
 ### Contact Me For More Information  
