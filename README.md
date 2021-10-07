@@ -1,12 +1,22 @@
 # Java Spring RestApi Jpa Veterinary Clinic Project
 Veterinary Project RestApi Service
 
-## Languages and Technologies Used in this Project
-:arrow_right: Java </br>
-:arrow_right: REST API </br>
-:arrow_right: ElasticSearch </br>
-:arrow_right: Redis </br>
-:arrow_right: Swagger </br>
+* It is the project where the services of the [Veterinary Project](https://www.google.com), made with the MVC architectural pattern, are written.
+
+## Used Technologies
+| Languages & Abilities |
+|-----------------------|
+|        Java           |
+|     Spring-Boot       |
+|   Spring Security     |
+|    Spring-RestApi     |
+|     ElasticSearch     |
+|         Redis         |
+|        Swagger        |
+|      Spring-JPA       |
+|   Spring-Validation   |
+|        Regex          |
+|         MySql         |
 
 ## Demo Account
 | :closed_lock_with_key: E-Mail | :old_key: Password |
